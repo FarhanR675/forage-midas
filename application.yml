@@ -1,2 +1,6 @@
 general:
   kafka-topic: sample-topic
+
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
